@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered'>
+    <pages>
+        <page name='Title Page'/>
+        <page name='Similar'/>
+        <page name='Nullable'/>
+        <page name='Mutable'/>
+        <page name='Mutable2'/>
+        <page name='Iteration'/>
+        <page name='NewTypes'/>
+        <page name='StringInterpolation'/>
+        <page name='RuntimeInterop'/>
+        <page name='TypeInference'/>
+        <page name='Closures'/>
+        <page name='Joke'/>
+        <page name='Functional'/>
+        <page name='KotlinExpressions'/>
+        <page name='SwiftGotcha'/>
+        <page name='Switch'/>
+        <page name='Untitled Page'/>
+        <page name='Tuple'/>
+        <page name='Extension'/>
+        <page name='Memory'/>
+        <page name='Challenges'/>
+    </pages>
+</playground>
